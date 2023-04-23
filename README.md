@@ -11,4 +11,4 @@ javascript:(function() {  var previewSection = document.getElementById("workspac
 
 3. Click the bookmarklet to download the image.
 
-NOTE: At the moment this only works in Pixlr X
+> NOTE: At the moment this only works in Pixlr X
