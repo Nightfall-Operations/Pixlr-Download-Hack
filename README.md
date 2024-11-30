@@ -1,4 +1,4 @@
-# Pixlr-Download-Hack
+# Pixlr Download Hack
 Download your image from Pixlr.com without using any daily saves using this easy Bookmarklet.
 
 **HOW TO INSTALL**
